@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Регистрация</string>
+    <string name="Log">Имя пользовалеля</string>
+    <string name="Pas">Пароль</string>
+</resources>
